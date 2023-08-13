@@ -2,8 +2,8 @@
 
 menggunakan html css (tailwind) dan sedikit javascript
 
-- [ ] responsive design
-- [ ] mobile first aproach
-- [ ] fake single page app using toggle display none
+- [x] responsive design
+- [x] mobile first aproach
+- [x] fake single page app using toggle display none
 
 
